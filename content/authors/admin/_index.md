@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Santiago Cadena
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,45 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: PhD Candidate. Computational Neuroscience and Machine Learning [@Bethgelab](http://bethgelab.org/)
+
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: University of Tübingen
+  url: "https://uni-tuebingen.de/"
+- name: IMPRS-IS Tübingen 
+  url: "https://imprs.is.mpg.de/"
+
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include the modeling of visual cortex under natural stimulation, and neuroscience inspired machine learning 
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Neural system identification
+- Vision neuroscience
+- Neural data analysis
+- Computational neuroscience
+- Transfer learning
+- Deep learning
+- Natural image statistics
+- Interpretability of deep neural networks
+- Computational biology
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD Candidate in Computational Neuroscience and Machine Learning
+    year: from 2017
+    institution: International Max Planck Research School for Intelligent Systems, Tübingen
+  - course: MSc in Neural Information Processing
+    institution: University of Tübingen. Germany
+    year: 2014 - 2016
+  - course: BSc in Biomedical Engineering
+    institution: Universidad de los Andes. Bogotá, Colombia
+    year: 2010 - 2014
+  - course: BSc in Electrical Engineering
+    institution: Universidad de los Andes. Bogotá, Colombia
+    year: 2009 - 2013
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -47,13 +60,13 @@ social:
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/SantiagoACadena
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=_XJDXjEAAAAJ&hl=en
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/sacadena
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -70,6 +83,7 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I study visual processing in the brain by building predictive models of population responses from the macaque and rodent brains to image and video sequences. I use techniques from machine learning and computer vision to improve our predictive models and gain insights into the nonlinear computations of visual neurons. My goal is to understand the functional organization of the visual cortex and to use these insights to enhance current computer vision methods.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I am an [IMPRS-IS](https://imprs.is.mpg.de/) PhD student at the lab of [Matthias Bethge](http://bethgelab.org/) at the University of Tübingen, jointly supervised by [Alexander Ecker](https://alexanderecker.wordpress.com/) at the University of Göttingen.
+During my PhD I've done multiple research visits to [Andreas Tolias](https://toliaslab.org/)'s lab at [Baylor College of Medicine](https://www.bcm.edu/) to conduct electrophysiological recordings from awake macaques.
