@@ -13,6 +13,8 @@ subtitle = ""
 date_format = "Jan 2006"
 
 +++
+
+* [17th Feb 2020] I am co-organizing the Neuroscience and ML workshop at the [1st Tübingen Robust Learning Symposium](https://sites.google.com/view/tue-ai-symposium). I will also give a talk about Deep Learning models of the rodent and primate visual systems.
     
 * [27th Jan 2020] I will be visiting the new lab of [Alexander Ecker](https://alexanderecker.wordpress.com/) at the University of Göttingen for the next week
 
